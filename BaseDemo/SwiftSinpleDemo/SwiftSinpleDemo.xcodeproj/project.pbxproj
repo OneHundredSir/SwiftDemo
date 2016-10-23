@@ -36,7 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8E57D6791DBC34A800D8D168 /* JobHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JobHeader.h; sourceTree = "<group>"; };
 		8E5D4DF71DBBC22C00EDF899 /* SwiftSinpleDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftSinpleDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E5D4DFA1DBBC22C00EDF899 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8E5D4DFC1DBBC22C00EDF899 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -110,7 +109,6 @@
 				8E5D4E011DBBC22C00EDF899 /* Assets.xcassets */,
 				8E5D4E031DBBC22C00EDF899 /* LaunchScreen.storyboard */,
 				8E5D4E061DBBC22C00EDF899 /* Info.plist */,
-				8E57D6791DBC34A800D8D168 /* JobHeader.h */,
 			);
 			path = SwiftSinpleDemo;
 			sourceTree = "<group>";
@@ -424,7 +422,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WHD.SwiftSinpleDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/huanghuiqun/Desktop/SwiftSinpleDemo/SwiftSinpleDemo/JobHeader.h;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -437,7 +435,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WHD.SwiftSinpleDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/huanghuiqun/Desktop/SwiftSinpleDemo/SwiftSinpleDemo/JobHeader.h;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
